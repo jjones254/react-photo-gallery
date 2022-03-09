@@ -17,11 +17,11 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-        aquaPhotos: [],
-        computerPhotos: [],
-        gamingPhotos: [],
-        dogPhotos:[],
-        searchPhotos: [],
+      aquaPhotos: [],
+      computerPhotos: [],
+      gamingPhotos: [],
+      dogPhotos:[],
+      searchPhotos: [],
     };
   }
 
